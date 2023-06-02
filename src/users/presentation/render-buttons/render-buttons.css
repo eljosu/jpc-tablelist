@@ -1,0 +1,13 @@
+
+button {
+    margin: 10px;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: #f9f9f9;
+}
+
+#current-page {
+    font-size: 1.3rem;
+    color: #f9f9f9;
+    margin-left: 10px;
+    margin-right: 10px;
+}
